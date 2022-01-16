@@ -6,6 +6,7 @@ Instalation:
 1) put the file in to the resource folder
 2) insert in to server.cfg - 'ensure pd_sounds'
 3) enjoy the script
+4) Don't forget to clear cache before starting server
 
 
 
